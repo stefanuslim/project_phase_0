@@ -1,0 +1,81 @@
+*{
+  margin: 0px;
+}
+
+body{
+  background-image: url("background-image2.jpg")
+}
+
+#status{
+  font-family: 'Architects Daughter', cursive;
+  text-align: center;
+  font-size: 50px;
+  margin-left: 100px;
+  margin-right: 100px;
+}
+
+#score{
+  font-family: 'Architects Daughter', cursive;
+  background-color: grey;
+  border: solid 2px black;
+  border-radius: 10%;
+  padding-top: 20px;
+  padding-bottom: 20px;
+  margin-left: 170px;
+  margin-right: 170px;
+  text-align: center;
+  color:white;
+}
+
+#logo{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  text-align: center;
+  width: 60%;
+  height: 40%;
+}
+
+.content{
+  background-image:url("background-image4.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  border: 2px solid black;
+  margin-left: 60px;
+  margin-right: 60px;
+  padding-top: 50px;
+  padding-bottom: 50px;
+  display: flex;
+}
+
+table td {
+  border-radius: 20%;
+}
+
+table {
+  border: solid black 2px;
+  height : 500px;
+  width: 250px;
+  background-image:url("background-image.png");
+}
+
+tr .nonEmpty {
+  background-color: white;
+}
+
+
+
+#tombol2{
+  font-family: 'Architects Daughter', cursive;
+  font-size: 30px;
+  border-radius: 10%;
+  padding-left: 50px;
+  padding-right: 50px;
+  padding-top: 50px;
+  padding-bottom: 50px;
+  margin-top: 200px;
+  margin-left: 200px;
+  margin-bottom: 200px;
+  background-color: grey;
+  color: white;
+}
